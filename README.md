@@ -4,4 +4,4 @@
 
 Binary 0101 is an app I created using Elm in first year taking "Introduction to Software Design Using Web Programming". It teaches the basics of binary and is targeted towards high school students. It was a group project, but I did the vast majority of the coding. 
 
-Unfortunately, the project required Binary0101 to be created using a WebIDE which hid certain code in some files, so it would be impossible to download the files and run the project locally. However, you can still use the app using the link above!
+Unfortunately, the project required Binary0101 to be created using a WebIDE which hid certain code in some files, so it would be impossible to download the files and run the project locally. However, you can still test the app using the link above!
